@@ -1,0 +1,121 @@
+body{
+line-height:1.4;
+background-color:azure;
+font-size:18px;
+}
+.image{
+background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/tortoiseshell-optics/resources/images/glasses-bg.png");
+height:30rem;
+padding:0px;
+}
+nav{
+
+
+}
+ul{
+   
+list-style-type:none;
+text-decoration:none;
+margin-left:auto;
+margin-right:auto;
+
+width:960px;
+background:cadetblue;
+}
+
+.home img{
+	
+}
+
+li{
+background:cadetblue;
+color:white;
+font-family:helvetica;
+font-size:1rem;
+display:inline;
+margin-top:1rem;
+
+
+}
+#to{
+
+
+float:right;
+margin-right:2rem;
+margin-bottom:1rem;
+
+}
+img{
+	margin-top:1rem;
+    margin-bottom:1rem;
+    margin-left:2rem;
+    margin-right:1rem;
+	height:1.5rem;
+    
+}
+.dontlook{
+text-transform:uppercase;
+background-color:white;
+font-family:helvetica;
+font-weight:bold;
+font-size:2rem;
+line-height:1.2;
+margin-top:15rem;
+width:720px;
+margin-left:420px;
+}
+.dontlook h1{
+margin:1.5rem 5rem;
+
+}
+.img123 li{
+
+margin-left:5rem;
+margin-right:auto;
+height:8rem;
+margin-top:3rem;
+margin-bottom:3rem;
+background:none;
+color:black;
+float:left;
+}
+.img1 img{
+width:3.5rem;
+margin-right:6rem;
+}
+.img2 img{
+width:5rem;
+margin-right:6rem;
+}
+.img3{
+
+}
+.articles{
+margin-top:10rem;
+margin-left:13rem;
+margin-bottom:5rem;
+}
+article{
+
+}
+.art1{
+margin-right:5%;
+float:left;
+width:35%;
+}
+.art2{
+float:left;
+width:35%;
+}
+h4{
+padding:0.5rem 1.25rem;
+background-color:cadetblue;
+font-family:helvetica;
+font-weight:bold;
+font-size:1rem;
+}
+
+.footer{
+margin-top:40rem;
+align:center;
+}
